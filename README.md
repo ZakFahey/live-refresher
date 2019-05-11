@@ -18,3 +18,5 @@ All you need to do is download the executable [here](https://github.com/ZakFahey
   "ServerStartupParameters": "-ip 127.0.0.1 -port 7777 -maxplayers 8 -world \"C:/Users/../Documents/My Games/Terraria/Worlds/MyWorld.wld\""
 }
 ```
+
+Then just run `LiveRefresher.exe` in place of `TerrariaServer.exe`.
